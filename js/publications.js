@@ -15,12 +15,12 @@ const PUBLICATIONS = [
   },
   {
     title: "Quantifying the carbon footprint of next directions in 3D NAND flash and DRAM fabrication",
-    venue: "Grey-Stewart, D., Elgamal, M., Kong, D., <strong>Chen, Z.</strong>, Piao, Z., Yao, Y. &amp; Hills, G. &mdash; 2026 International Conference on Computer-Aided Design (ICCAD)",
+    venue: "Grey-Stewart, D., Elgamal, M., Kong, D., <strong>Chen, Z.</strong>, Piao, Z., Yao, Y. &amp; Hills, G. &mdash; Proceedings of the 2026 IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, USA",
     year: 2026, type: "conference", status: "published", topic: "computing"
   },
   {
     title: "Quantifying Trade-Offs in Power, Performance, Area, and Total Carbon Footprint (PPAtC) of Next Directions in FET Technologies for VLSI Digital Logic Circuits",
-    venue: "Kong, D.*, Grey-Stewart, D.*, Elgamal, M., <strong>Chen, Z.</strong>, Piao, Z., Morris, J., Yao, Y. &amp; Hills, G. &mdash; 72nd International Electron Devices Meeting (IEDM). *Equal contribution.",
+    venue: "Kong, D.*, Grey-Stewart, D.*, Elgamal, M., <strong>Chen, Z.</strong>, Piao, Z., Morris, J., Yao, Y. &amp; Hills, G. &mdash; 2026 IEEE International Electron Devices Meeting (IEDM), San Francisco, CA, USA. To appear. *Equal contribution.",
     year: 2026, type: "conference", status: "published", topic: "computing"
   },
 
@@ -61,6 +61,12 @@ const PUBLICATIONS = [
     year: 2022, type: "journal", status: "published", topic: "renewable",
     link: "https://doi.org/10.1016/j.jclepro.2021.129602"
   },
+  {
+    title: "Analysis of cobalt flows in mainland China: exploring potential opportunities for improving resource efficiency and supply security",
+    venue: "<strong>Chen, Z.</strong>, Zhang, L. &amp; Xu, Z. &mdash; Journal of Cleaner Production 275, 122841",
+    year: 2020, type: "journal", status: "published", topic: "renewable",
+    link: "https://doi.org/10.1016/j.jclepro.2020.122841"
+  },
 
   // ---- E-Waste Recycling & Waste Valorization ----
   {
@@ -74,12 +80,6 @@ const PUBLICATIONS = [
     venue: "<strong>Chen, Z.</strong>, Niu, B., Zhang, L. &amp; Xu, Z. &mdash; Journal of Hazardous Materials 342, 192&ndash;200",
     year: 2018, type: "journal", status: "published", topic: "ewaste",
     link: "https://doi.org/10.1016/j.jhazmat.2017.08.021"
-  },
-  {
-    title: "Analysis of cobalt flows in mainland China: exploring potential opportunities for improving resource efficiency and supply security",
-    venue: "<strong>Chen, Z.</strong>, Zhang, L. &amp; Xu, Z. &mdash; Journal of Cleaner Production 275, 122841",
-    year: 2020, type: "journal", status: "published", topic: "ewaste",
-    link: "https://doi.org/10.1016/j.jclepro.2020.122841"
   },
   {
     title: "Method for recycling tantalum from waste tantalum capacitors by chloride metallurgy",
