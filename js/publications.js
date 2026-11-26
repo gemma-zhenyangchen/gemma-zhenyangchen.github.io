@@ -24,7 +24,7 @@ const PUBLICATIONS = [
     year: 2026, type: "conference", status: "published", topic: "computing"
   },
 
-  // ---- Renewable Energy: Material Demand & Environmental Impacts ----
+  // ---- Renewable Energy: Critical Material & Environmental Impacts ----
   {
     title: "Metal requirements for building electrical grid systems of global wind power and utility-scale solar photovoltaic until 2050",
     venue: "<strong>Chen, Z.</strong>, Kleijn, R. &amp; Lin, H.-X. &mdash; Environmental Science &amp; Technology 57(2), 1080&ndash;1091",
@@ -133,7 +133,7 @@ const PUBLICATIONS = [
 
 const TOPIC_LABELS = {
   computing: "Computing Systems & Data Center Sustainability",
-  renewable: "Renewable Energy: Material Demand & Environmental Impacts",
+  renewable: "Renewable Energy: Critical Material & Environmental Impacts",
   ewaste: "E-Waste Recycling & Waste Valorization"
 };
 
